@@ -43,6 +43,4 @@ Diffusion is a process of translating textual descriptions into coherent video s
 - [Hugging Face](https://huggingface.co/) for providing the pretrained models and libraries.
 - Developers of the `diffusers` library for simplifying the implementation of diffusion mechanisms.
   
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
